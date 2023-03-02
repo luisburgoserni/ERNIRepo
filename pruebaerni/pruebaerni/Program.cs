@@ -11,6 +11,7 @@
 
             Console.WriteLine("Escribe una palabra");
             palabra = Console.ReadLine();
+            Console.WriteLine();
 
             if (!string.IsNullOrEmpty(palabra))
             {
