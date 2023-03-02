@@ -1,38 +1,62 @@
-﻿internal class Program
+﻿using pruebaerni;
+using System.ComponentModel.Design;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        string palabra = string.Empty;
-        bool flag = true;
+        crearPersona();
+    }
 
-        do
+    private static void crearPersona()
+    {
+        Persona p = new Persona();
+        String texto = string.Empty;
+
+        Console.WriteLine("Escribe el nombre");
+        texto = Console.ReadLine();
+        if (comprobarTexto(texto))
         {
-            palabra = string.Empty;
+            p.Nombre = texto;
+            Console.WriteLine("Escribe el apellido");
+            texto = Console.ReadLine();
 
-            Console.WriteLine("Escribe una palabra");
-            palabra = Console.ReadLine();
-            Console.WriteLine();
-
-            if (!string.IsNullOrEmpty(palabra))
+            if (comprobarTexto(texto))
             {
-                if (palabra.Contains(" "))
+                p.Apellidos = texto;
+                Console.WriteLine("Escribe la edad");
+                texto = Console.ReadLine();
+
+                if (comprobarTexto(texto))
                 {
-                    Console.Clear();
-                    Console.WriteLine("No es una palabra, es un texto");
+                    p.Edad = Int32.Parse(texto);
+
+                    Console.WriteLine(p.ToString());
                 }
-                else
-                {
-                    Console.WriteLine("Palabra guardada");
-                    Console.WriteLine(palabra);
-                    flag = false;
-                }
+            }
+        }
+    }
+
+    private static bool comprobarTexto(string palabra)
+    {
+
+        if (!string.IsNullOrEmpty(palabra))
+        {
+            if (palabra.Contains(" "))
+            {
+                Console.WriteLine("No es una palabra, es un texto");
+                return false;
             }
             else
             {
-                Console.Clear();
-                Console.WriteLine("No has escrito nada");
+                Console.WriteLine("Palabra guardada");
+                return true;
             }
-
-        } while (flag);
+        }
+        else
+        {
+            Console.WriteLine("No has escrito nada");
+            return false;
+        }
     }
 }
