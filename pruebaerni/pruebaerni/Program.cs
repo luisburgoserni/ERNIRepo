@@ -9,6 +9,7 @@
         {
             palabra = string.Empty;
 
+            Console.Clear();
             Console.WriteLine("Escribe una palabra");
             palabra = Console.ReadLine();
 
