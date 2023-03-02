@@ -9,7 +9,6 @@
         {
             palabra = string.Empty;
 
-            Console.Clear();
             Console.WriteLine("Escribe una palabra");
             palabra = Console.ReadLine();
 
@@ -17,6 +16,7 @@
             {
                 if (palabra.Contains(" "))
                 {
+                    Console.Clear();
                     Console.WriteLine("No es una palabra, es un texto");
                 }
                 else
@@ -28,6 +28,7 @@
             }
             else
             {
+                Console.Clear();
                 Console.WriteLine("No has escrito nada");
             }
 
