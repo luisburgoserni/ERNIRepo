@@ -1,0 +1,14 @@
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\bin\Debug\netcoreapp2.2\EjemploEFCore.deps.json
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\bin\Debug\netcoreapp2.2\EjemploEFCore.runtimeconfig.json
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\bin\Debug\netcoreapp2.2\EjemploEFCore.runtimeconfig.dev.json
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\bin\Debug\netcoreapp2.2\EjemploEFCore.dll
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\bin\Debug\netcoreapp2.2\EjemploEFCore.pdb
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.csproj.CoreCompileInputs.cache
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.RazorAssemblyInfo.cache
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.RazorAssemblyInfo.cs
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.AssemblyInfoInputs.cache
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.AssemblyInfo.cs
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.RazorTargetAssemblyInfo.cache
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.dll
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.pdb
+E:\Udemy\EFEjemplo\EjemploEFCore\EjemploEFCore\obj\Debug\netcoreapp2.2\EjemploEFCore.csprojAssemblyReference.cache
