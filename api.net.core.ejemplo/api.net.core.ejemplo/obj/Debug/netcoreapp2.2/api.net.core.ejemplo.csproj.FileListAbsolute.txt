@@ -1,0 +1,54 @@
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csprojAssemblyReference.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csproj.CoreCompileInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorAssemblyInfo.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorAssemblyInfo.cs
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.AssemblyInfoInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.AssemblyInfo.cs
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.deps.json
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.runtimeconfig.json
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.runtimeconfig.dev.json
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorTargetAssemblyInfo.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csproj.CopyComplete
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.contracts.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.contracts.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.runtimeconfig.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.runtimeconfig.dev.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.contracts.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.contracts.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.application.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csproj.AssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.AssemblyInfoInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.AssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorAssemblyInfo.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorAssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.RazorTargetAssemblyInfo.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.csproj.CopyComplete
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.genruntimeconfig.cache

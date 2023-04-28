@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7GdEZcVuQYs+do9h2VOr3g2c94b1osmwqsxL4Y4R/e/+SLLm0eBvX/EP2KeorsCWm6E6Ys6JJ4EfuXhH5G/Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buli\\OneDrive - ERNI Group\\Desktop\\ERNIRepo\\EjemploEF\\EjemploSwagger\\EjemploSwagger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

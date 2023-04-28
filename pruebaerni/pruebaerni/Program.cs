@@ -1,62 +1,96 @@
-﻿using pruebaerni;
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 
 internal class Program
-{
+{ 
     private static void Main(string[] args)
     {
-        crearPersona();
-    }
+        string numerosString = String.Empty;
+        List<string> numerosStringArray = new List<string>();
+        List<int> numerosArray = new List<int>();
 
-    private static void crearPersona()
-    {
-        Persona p = new Persona();
-        String texto = string.Empty;
+        Console.WriteLine("Introduce los numeros separados por espacios");
+        numerosString = Console.ReadLine();
 
-        Console.WriteLine("Escribe el nombre");
-        texto = Console.ReadLine();
-        if (comprobarTexto(texto))
+        if (numerosString != string.Empty)
         {
-            p.Nombre = texto;
-            Console.WriteLine("Escribe el apellido");
-            texto = Console.ReadLine();
-
-            if (comprobarTexto(texto))
+            for (int i = 0; i < numerosString.Length; i++)
             {
-                p.Apellidos = texto;
-                Console.WriteLine("Escribe la edad");
-                texto = Console.ReadLine();
-
-                if (comprobarTexto(texto))
-                {
-                    p.Edad = Int32.Parse(texto);
-
-                    Console.WriteLine(p.ToString());
-                }
+                numerosStringArray.Add(numerosString.Substring(i,1));
             }
-        }
-    }
 
-    private static bool comprobarTexto(string palabra)
-    {
-
-        if (!string.IsNullOrEmpty(palabra))
-        {
-            if (palabra.Contains(" "))
+            if (comprobarNumerosArray(numerosStringArray))
             {
-                Console.WriteLine("No es una palabra, es un texto");
-                return false;
+                int suma = 0;
+
+                if (numerosStringArray[0] == " ")
+                {
+                    for (int i = 1; i < numerosStringArray.Count; i += 2)
+                    {
+                        suma += int.Parse(numerosStringArray[i]);
+                    }
+                }
+                else
+                {
+                    for (int i = 0; i < numerosStringArray.Count; i += 2)
+                    {
+                        suma += int.Parse(numerosStringArray[i]);         
+                    }
+                }
+
+                Console.WriteLine("La suma es: " + suma);
             }
             else
             {
-                Console.WriteLine("Palabra guardada");
-                return true;
+                Console.WriteLine("NOT OK");
+            }
+        }     
+    }
+
+    private static bool comprobarNumerosArray(List<string> numerosStringArray)
+    {
+        bool flag = true;
+
+        if (numerosStringArray[0] == " ")
+        {
+            //comprobamos que hay espacios entre los numeros
+            for (int i = 0; i < numerosStringArray.Count; i += 2)
+            {
+                if (numerosStringArray[i] != " ")
+                {
+                    flag = false;
+                    break;
+                }
+
+                int numero;
+                try
+                {
+                    if (!int.TryParse(numerosStringArray[i + 1], out numero))
+                    {
+                        flag = false;
+                        break;
+                    }
+                }catch (Exception) { }               
             }
         }
         else
         {
-            Console.WriteLine("No has escrito nada");
-            return false;
+            //comprobamos que hay espacios entre los numeros
+            for (int i = 1; i < numerosStringArray.Count; i += 2)
+            {
+                if (numerosStringArray[i] != " ")
+                {
+                    flag = false;
+                    break;
+                }
+
+                int numero;
+                if (!int.TryParse(numerosStringArray[i + 1], out numero))
+                {
+                    flag = false;
+                    break;
+                }
+            }
         }
+        return flag;
     }
 }

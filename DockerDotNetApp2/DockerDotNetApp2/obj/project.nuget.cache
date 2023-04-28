@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlTDvna9c0L9GbPKA8ZVFXMawm/xmSHiztk3CnP9QsTw5IREZ/URozxlRqF+4WYA+U6apHa2bN9GLzdc/6ZNTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buli\\OneDrive - ERNI Group\\Desktop\\ERNIRepo\\DockerDotNetApp2\\DockerDotNetApp2\\DockerDotNetApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

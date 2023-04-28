@@ -1,0 +1,7 @@
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\DockerDotNetApp.exe
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\appsettings.Development.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\appsettings.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\DockerDotNetApp.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\DockerDotNetApp.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\DockerDotNetApp.runtimeconfig.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\DockerDotNetApp\DockerDotNetApp\out\DockerDotNetApp.pdb

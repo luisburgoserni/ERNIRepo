@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ejemplo.swagger.openapi.api</name>
+    </assembly>
+    <members>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploRemarksController.Get">
+            <summary>
+            Obtiene valores 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploRemarksController.Get(System.Int32)">
+            <summary>
+            Obtiene el valor pasando el id por parametro
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploRemarksController.Post(ejemplo.swagger.openapi.api.Request.RequestModel)">
+             <summary>
+             Añade una entidad tipo X
+             </summary>
+             <param name="request"></param>
+             <remarks>
+             Sample request:
+            
+                 POST /user
+                 {
+                    "id": 1,
+                    "Nombre": "Alberto",
+                    "Edad": 39
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploRemarksController.Put(System.Int32,ejemplo.swagger.openapi.api.Request.RequestModel)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <remarks>
+            TEXTO JSON o XML Informativo
+            </remarks>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploRemarksController.Delete(System.Int32)">
+            <summary>
+            Borra la entidad de Id X
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploSummaryController.Get">
+            <summary>
+            Obtiene valores de usuarios de la aplicacion 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploSummaryController.Get(System.Int32)">
+            <summary>
+            Obtiene el valor pasando el id por parametro
+            </summary>
+            <param name="id"></param>
+            <returns>Retorna el Id del usuario</returns>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploSummaryController.Post(System.String)">
+            <summary>
+            Agrega una entidad X
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploSummaryController.Put(System.Int32,System.String)">
+            <summary>
+            Modifica la entidad X
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploSummaryController.Delete(System.Int32)">
+            <summary>
+            Borra la entidad de Id X
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:ejemplo.swagger.openapi.api.Controllers.EjemploTipoRespuesta.Post(ejemplo.swagger.openapi.api.Request.RequestModel)">
+            <summary>
+            Agrega un registro de tipo Model
+            </summary>
+            <param name="request"></param>
+            <response code="201"><see cref="T:ejemplo.swagger.openapi.api.Response.ResponseModel"/>Si crea bien el objeto</response>
+            <response code="400">Si no encuentra la ruta</response> 
+            <response code="403">Si la llamada no esta autenticada</response>
+            <response code="500">Si se produce un error</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,32 @@
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.deps.json
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.json
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.dev.json
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csproj.CoreCompileInputs.cache
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cache
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cs
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfoInputs.cache
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfo.cs
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorTargetAssemblyInfo.cache
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+C:\Udemy\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csprojAssemblyReference.cache
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.deps.json
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.json
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.dev.json
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csproj.CoreCompileInputs.cache
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cache
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cs
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfoInputs.cache
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfo.cs
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorTargetAssemblyInfo.cache
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csprojAssemblyReference.cache
