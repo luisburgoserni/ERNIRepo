@@ -1,0 +1,29 @@
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csprojAssemblyReference.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csproj.CoreCompileInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.AssemblyInfoInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.AssemblyInfo.cs
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.deps.json
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csproj.CopyComplete
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.contracts.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csproj.AssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.AssemblyInfoInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.AssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.csproj.CopyComplete
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.dataaccess\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.dataaccess.pdb

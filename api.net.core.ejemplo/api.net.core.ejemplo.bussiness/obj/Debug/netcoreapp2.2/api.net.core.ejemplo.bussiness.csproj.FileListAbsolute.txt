@@ -1,0 +1,18 @@
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.deps.json
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.csproj.CoreCompileInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.AssemblyInfoInputs.cache
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.AssemblyInfo.cs
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+E:\Udemy\api.net.core.ejemplo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\bin\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.csproj.AssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.AssemblyInfoInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.AssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.csproj.CoreCompileInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo.bussiness\obj\Debug\netcoreapp2.2\api.net.core.ejemplo.bussiness.pdb

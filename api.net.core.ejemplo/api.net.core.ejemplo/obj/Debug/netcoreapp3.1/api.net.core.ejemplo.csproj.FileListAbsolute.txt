@@ -1,0 +1,7 @@
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.csproj.AssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.AssemblyInfoInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.AssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\api.net.core.ejemplo\api.net.core.ejemplo\obj\Debug\netcoreapp3.1\api.net.core.ejemplo.MvcApplicationPartsAssemblyInfo.cache

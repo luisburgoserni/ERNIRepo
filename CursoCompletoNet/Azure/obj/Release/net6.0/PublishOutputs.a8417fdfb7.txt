@@ -1,0 +1,7 @@
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\Azure.exe
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\Azure.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\Azure.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\Azure.runtimeconfig.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\CursoCompletoNet\Azure\obj\Release\net6.0\PubTmp\Out\Azure.pdb
