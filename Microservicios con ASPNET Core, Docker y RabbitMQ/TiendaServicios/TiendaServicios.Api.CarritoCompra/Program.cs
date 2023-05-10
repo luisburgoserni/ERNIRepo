@@ -1,26 +1,35 @@
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using TiendaServicios.Api.CarritoCompra.Aplicacion;
+using TiendaServicios.Api.CarritoCompra.Persistencia;
+using TiendaServicios.Api.CarritoCompra.RemoteInterface;
+using TiendaServicios.Api.CarritoCompra.RemoteService;
 
-namespace TiendaServicios.Api.CarritoCompra
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddScoped<ILibrosService, LibrosService>();
+builder.Services.AddControllers();
+
+builder.Services.AddDbContext<CarritoContexto>(options =>
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            CreateHostBuilder(args).Build().Run();
-        }
+    options.UseMySql(builder.Configuration.GetConnectionString("ConexionDatabaseDocker"), new MySqlServerVersion(new Version(8, 0, 33)));
+});
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
-    }
-}
+builder.Services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
+builder.Services.AddHttpClient("Libros", config =>
+{
+    config.BaseAddress = new Uri(builder.Configuration["Services:Libros"]);
+});
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+
+app.UseHttpsRedirection();
+
+app.UseAuthentication();
+
+app.MapControllers();
+
+app.Run();

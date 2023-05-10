@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Gz+34WvDFF/3hMro2vDXZboYi8thVJke9FshMJXaQ+D47GXAtbGh3oN8eJTEj9YxKb/pSjuljJ39eoirucSoOw==",
+  "dgSpecHash": "zwJmlIDpwmdoEahXXO/u302tXHQRiYa9+xdT019DuiLBJlPjt/1MwG4ZAAZYcalTOfLKg74ZVozUvxPPC6Kesw==",
   "success": true,
   "projectFilePath": "C:\\Users\\buli\\OneDrive - ERNI Group\\Desktop\\ERNIRepo\\Microservicios con ASPNET Core, Docker y RabbitMQ\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\buli\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\buli\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\buli\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\buli\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\buli\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\buli\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",

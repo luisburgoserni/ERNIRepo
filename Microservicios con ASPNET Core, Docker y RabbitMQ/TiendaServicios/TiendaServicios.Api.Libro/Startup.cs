@@ -34,7 +34,7 @@ namespace TiendaServicios.Api.Libro
 
             services.AddDbContext<ContextoLibreria>(opt =>
             {
-                opt.UseSqlServer(Configuration.GetConnectionString("ConexionDatabase"));
+                opt.UseSqlServer(Configuration.GetConnectionString("ConexionDatabaseDocker"));
             });
 
             services.AddMediatR(typeof(Nuevo.Manejador).Assembly);

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 using TiendaServicios.Api.CarritoCompra.Modelo;
 
 namespace TiendaServicios.Api.CarritoCompra.Persistencia
@@ -7,7 +8,6 @@ namespace TiendaServicios.Api.CarritoCompra.Persistencia
     {
         public CarritoContexto(DbContextOptions<CarritoContexto> options) : base(options)
         {
-
         }
 
         public DbSet<CarritoSesion> CarritoSesion { get; set; }

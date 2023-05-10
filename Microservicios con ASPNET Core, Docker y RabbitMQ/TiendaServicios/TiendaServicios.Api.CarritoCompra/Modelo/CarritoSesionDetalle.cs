@@ -1,8 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace TiendaServicios.Api.CarritoCompra.Modelo
+﻿namespace TiendaServicios.Api.CarritoCompra.Modelo
 {
     public class CarritoSesionDetalle
     {

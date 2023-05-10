@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace TiendaServicios.Api.CarritoCompra.Modelo
+﻿namespace TiendaServicios.Api.CarritoCompra.Modelo
 {
     public class CarritoSesion
     {
