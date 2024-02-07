@@ -30,3 +30,23 @@ E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\e
 E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
 E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
 E:\Udemy\videos\Introduccion\OPEN APIS SWAGGER\Ejemplo Swagger\Ejemplo Swagger\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csprojAssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.deps.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.runtimeconfig.dev.json
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\bin\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csproj.AssemblyReference.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfoInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.AssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.csproj.CoreCompileInputs.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorAssemblyInfo.cs
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.RazorTargetAssemblyInfo.cache
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.dll
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.xml
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.pdb
+C:\Users\buli\OneDrive - ERNI Group\Desktop\ERNIRepo\ejemplo.swagger.openapi.api\ejemplo.swagger.openapi.api\obj\Debug\netcoreapp2.2\ejemplo.swagger.openapi.api.genruntimeconfig.cache
