@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzVQklV8YrbVxA31ebRTSt0YtYmbux9cQO3hPwMZ1IByETszoLCr9JEGjhGjqgmVT+IYaxNZwuTdkW9yRb/JOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buli\\OneDrive - ERNI Group\\Desktop\\ERNIRepo\\RabbitEncrypted\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buli\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\buli\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
